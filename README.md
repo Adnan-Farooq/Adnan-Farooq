@@ -7,9 +7,9 @@
 </p>
 
 <!-- Table without borders -->
-<table style="width: 100%; border: none;">
-  <tr style="border: none;">
-    <td style="border: none; vertical-align: top;">
+<table >
+  <tr>
+    <td >
       <ul>
         <li>🔭 I’m currently working on <strong>Blog Site</strong></li>
         <li>🌱 I’m currently learning <strong>Nestjs with Study</strong></li>
